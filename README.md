@@ -1,4 +1,5 @@
 # blockchain
+# пример смарт-контракта для сохранения монет пользователя: функции: bank, deposit, withdrow, getMyBalance, kill
 smart code
 contract Bank {
     address owner;
